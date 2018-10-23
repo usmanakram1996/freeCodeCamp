@@ -24,6 +24,17 @@ For more information about freeCodeCamp, visit [about.freecodecamp.org](https://
 
 For more information about the new certification program, see the forum post [here](https://www.freecodecamp.org/forum/t/freecodecamps-new-certificates-heres-how-were-rolling-them-out/141618).
 
+
+## What you'll learn?
+    1. Git and Github
+    2. HTML
+    3. CSS3
+    4. JS
+    5. Databases
+    6. Node.js
+    7. React.js
+    8. d3.js
+
 ### Associate Android Developer Certification
 
 A great way to test one's Android skills and certify that by none other than Google.
