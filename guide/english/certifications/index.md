@@ -24,6 +24,10 @@ For more information about freeCodeCamp, visit [about.freecodecamp.org](https://
 
 For more information about the new certification program, see the forum post [here](https://www.freecodecamp.org/forum/t/freecodecamps-new-certificates-heres-how-were-rolling-them-out/141618).
 
+## Technologies
+  ![What you'll learn at freecodecamp?](https://www.i-programmer.info/images/stories/News/2016/April/B/freecodecamp1.jpg)
+
+
 ### Associate Android Developer Certification
 
 A great way to test one's Android skills and certify that by none other than Google.
